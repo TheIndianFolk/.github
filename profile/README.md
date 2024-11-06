@@ -32,4 +32,4 @@ Each project has its own dedicated repository with setup instructions, guideline
 
 ## 🌱 Getting Started
 
-To start exploring our cultural resources, head over to our [repositories](https://github.com/theindianfolk) and select a project that interests you. Each repository contains its own instructions on how to access and navigate the resources.
+To start exploring our cultural resources, head over to our [repositories](https://github.com/orgs/TheIndianFolk/repositories) and select a project that interests you. Each repository contains its own instructions on how to access and navigate the resources.
