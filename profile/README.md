@@ -33,3 +33,28 @@ Each project has its own dedicated repository with setup instructions, guideline
 ## 🌱 Getting Started
 
 To start exploring our cultural resources, head over to our [repositories](https://github.com/orgs/TheIndianFolk/repositories) and select a project that interests you. Each repository contains its own instructions on how to access and navigate the resources.
+
+## 🧩 Community and Contributions
+
+We’re building a community that values and respects the rich diversity of Indian culture. Here’s how you can be part of it:
+
+Contribute: Share your own resources, videos, and stories.
+Engage: Participate in discussions and provide feedback.
+Preserve: Help us ensure that every generation has access to our roots and cultural identity.
+Check our [Contribution Guidelines](https://github.com/TheIndianFolk/.github/blob/main/Contribution_Guidelines) to learn more about contributing to our organization.
+
+## 🛠 Tech Stack
+Our tech stack is designed to deliver high-quality, accessible digital experiences:
+
+Frontend: React, Next.js, Tailwind CSS
+Backend: Node.js, Firebase, MongoDB
+App Development: React Native for cross-platform support (Android & iOS)
+Media Storage and Streaming: YouTube integration, AWS, Vercel
+Admin Panel: Built using React, with a dashboard to manage and update content easily
+Each project repository contains detailed information on the tech stack used.
+
+## 🌐 Connect With Us
+For any questions or suggestions, feel free to reach out at contact@theindianfolk.com. We’re always happy to connect with like-minded individuals who share a passion for preserving and sharing our culture.
+
+## License
+This organization and all its projects are licensed under the MIT License unless otherwise stated.
